@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my first git repository <br>
-author- Sahil ydv
+author- aman jaat
